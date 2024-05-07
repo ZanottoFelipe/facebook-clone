@@ -29,7 +29,7 @@ O projeto segue a estrutura típica do padrão MVC:
 
 ## Como Usar
 
-1. Clone este repositório:
+1. Clone este repositório: https://github.com/ZanottoFelipe/facebook-clone.git
 
 2. Importe o arquivo SQL fornecido (`database.sql`) para criar o banco de dados e suas tabelas.
 
